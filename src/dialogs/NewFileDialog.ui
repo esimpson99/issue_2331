@@ -17,7 +17,7 @@
    </sizepolicy>
   </property>
   <property name="windowTitle">
-   <string>Open File</string>
+   <string>Open file</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>
@@ -142,11 +142,11 @@
         <item>
          <widget class="QTabWidget" name="tabWidget">
           <property name="currentIndex">
-           <number>2</number>
+           <number>0</number>
           </property>
           <widget class="QWidget" name="filesTab">
            <attribute name="title">
-            <string>Open File</string>
+            <string>Open file</string>
            </attribute>
            <layout class="QVBoxLayout" name="verticalLayout_4">
             <item>
@@ -313,7 +313,7 @@
           </widget>
           <widget class="QWidget" name="shellcodeTab">
            <attribute name="title">
-            <string>Open Shellcode</string>
+            <string>Open shellcode</string>
            </attribute>
            <layout class="QVBoxLayout" name="shellcodeLayout">
             <item>
@@ -325,7 +325,7 @@
                </sizepolicy>
               </property>
               <property name="text">
-               <string>&lt;b&gt;Paste Shellcode&lt;b&gt;</string>
+               <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Paste shellcode&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
               </property>
              </widget>
             </item>
@@ -407,7 +407,7 @@
                  </sizepolicy>
                 </property>
                 <property name="text">
-                 <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                 <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
                 </property>
                </widget>
               </item>

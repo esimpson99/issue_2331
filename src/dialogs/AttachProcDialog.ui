@@ -127,7 +127,7 @@
    <item>
     <widget class="QLineEdit" name="filterLineEdit">
      <property name="placeholderText">
-      <string>Quick Filter</string>
+      <string>Quick filter</string>
      </property>
     </widget>
    </item>

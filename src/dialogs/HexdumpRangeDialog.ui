@@ -47,7 +47,7 @@
          <string>Exclusive end address</string>
         </property>
         <property name="text">
-         <string>End Address:</string>
+         <string>End address:</string>
         </property>
         <property name="checked">
          <bool>true</bool>
@@ -62,7 +62,7 @@
     <item row="0" column="0">
      <widget class="QLabel" name="startAddressLabel">
       <property name="text">
-       <string>Start Address:</string>
+       <string>Start address:</string>
       </property>
      </widget>
     </item>

@@ -23,7 +23,7 @@
    </sizepolicy>
   </property>
   <property name="windowTitle">
-   <string notr="true">Version Info</string>
+   <string notr="true">Version info</string>
   </property>
   <property name="toolTip">
    <string/>

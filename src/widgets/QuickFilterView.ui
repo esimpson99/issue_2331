@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>327</width>
-    <height>25</height>
+    <height>27</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -38,7 +38,7 @@
       </sizepolicy>
      </property>
      <property name="placeholderText">
-      <string>Quick Filter</string>
+      <string>Quick filter</string>
      </property>
      <property name="clearButtonEnabled">
       <bool>true</bool>
@@ -55,7 +55,7 @@
       </font>
      </property>
      <property name="styleSheet">
-      <string notr="true"></string>
+      <string notr="true"/>
      </property>
      <property name="text">
       <string>X</string>

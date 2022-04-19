@@ -29,7 +29,7 @@
      <item row="1" column="0">
       <widget class="QLabel" name="nameLabel">
        <property name="text">
-        <string>Unique Identifier (name):</string>
+        <string>Unique identifier (name):</string>
        </property>
       </widget>
      </item>
@@ -41,7 +41,7 @@
        <item>
         <widget class="QCheckBox" name="autoRenameCheckBox">
          <property name="text">
-          <string>Auto-Rename</string>
+          <string>Auto-rename</string>
          </property>
          <property name="checked">
           <bool>false</bool>
@@ -53,7 +53,7 @@
      <item row="2" column="0">
       <widget class="QLabel" name="realNameLabel">
        <property name="text">
-        <string>Display Name (realname):</string>
+        <string>Display name (realname):</string>
        </property>
       </widget>
      </item>

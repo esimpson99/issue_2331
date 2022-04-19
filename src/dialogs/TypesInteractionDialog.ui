@@ -20,7 +20,7 @@
       <item>
        <widget class="QLabel" name="filenameLabel">
         <property name="text">
-         <string>Load From File:</string>
+         <string>Load From file:</string>
         </property>
        </widget>
       </item>
@@ -34,7 +34,7 @@
       <item>
        <widget class="QPushButton" name="selectFileButton">
         <property name="text">
-         <string>Select File</string>
+         <string>Select file</string>
         </property>
        </widget>
       </item>

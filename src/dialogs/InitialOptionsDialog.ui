@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>598</width>
-    <height>524</height>
+    <height>785</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -23,7 +23,7 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>Load Options</string>
+   <string>Load options</string>
   </property>
   <property name="autoFillBackground">
    <bool>false</bool>
@@ -164,7 +164,7 @@
            <string notr="true"/>
           </property>
           <property name="text">
-           <string>Analysis: Enabled</string>
+           <string>Analysis: enabled</string>
           </property>
           <property name="checked">
            <bool>true</bool>
@@ -323,7 +323,7 @@
            </size>
           </property>
           <property name="text">
-           <string>Auto Exp</string>
+           <string>Auto exp</string>
           </property>
           <property name="alignment">
            <set>Qt::AlignCenter</set>
@@ -417,8 +417,8 @@
           <rect>
            <x>0</x>
            <y>0</y>
-           <width>553</width>
-           <height>410</height>
+           <width>578</width>
+           <height>454</height>
           </rect>
          </property>
          <layout class="QVBoxLayout" name="verticalLayout_5">
@@ -959,7 +959,7 @@
                      <item>
                       <widget class="QLineEdit" name="pdbLineEdit">
                        <property name="placeholderText">
-                        <string>PDB File path</string>
+                        <string>PDB file path</string>
                        </property>
                       </widget>
                      </item>
